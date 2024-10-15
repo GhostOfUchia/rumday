@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177296093192",
+    "project_id": "rumday-8bb67",
+    "storage_bucket": "rumday-8bb67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177296093192:android:a6b68efef240e7d5f421bd",
+        "android_client_info": {
+          "package_name": "com.example.rumedy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGfp9W6ywLSQViA_LyyuRY-pWogXaxOWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
